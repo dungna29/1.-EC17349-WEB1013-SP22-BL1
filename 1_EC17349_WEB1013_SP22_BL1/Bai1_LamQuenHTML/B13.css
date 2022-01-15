@@ -1,0 +1,22 @@
+#header{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+#body{
+    background-color: wheat;
+    text-align: center;
+    padding: 50px;
+}
+#footer{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 50px;
+}
+.imgGiay{
+    width: 20%;
+    height: 300px;
+    padding: 30px;
+    border-radius: 20px;
+}
